@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Telegram-Sohuman%20Remaster-purple&style=plastic">
 
   </a>
-</p>
+
 
 ```
 
