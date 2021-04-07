@@ -3,7 +3,7 @@
     "description": "WhatsSohuman project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.resmim.net/G6CaY.jpg",
     "keywords": ["whatsapp", "userbot", "Sohuman", "WhatSohuman", "bot", "api", "ai"],
-    "repository": "https://github.com/phaticusthiccy/WhatSohuman",
+    "repository": "https://github.com/phaticusthiccy/Whatsohuman",
     "website":   "https://t.me/sohuman",
     "success_url": "https://t.me/sohuman",
     "stack": "container",
