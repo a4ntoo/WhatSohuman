@@ -98,7 +98,7 @@ pengguna bertanggung jawab.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/a4ntoo/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/a4ntoo/WhatsAsenaDuplicated/blob/7289f7d985693a0ec9d38c8a72e22cbba922ca08/app.json)
 
 ### The Hard Method
 ```js
