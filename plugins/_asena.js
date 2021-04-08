@@ -19,7 +19,7 @@ if (Config.WORKTYPE == 'private') {
 
         var CMD_HELP = '';
         if (match[1] === '') {
-            Help.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
@@ -49,7 +49,7 @@ if (Config.WORKTYPE == 'private') {
         } else {
 
             var CMD_HELP = '';
-            Help.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
